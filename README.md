@@ -29,6 +29,7 @@ Words are drifting and seen searchin' for this money? Sonny, if you walk away. O
 see her walk about you walk around, yeh, It took me on
 out. Daylight now ove
 ```
+In general, larger *k* tends to reproduce more of the input text.
 
 --
 

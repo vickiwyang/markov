@@ -104,16 +104,8 @@ public class MarkovModel {
         if (!nextchar.contains(kgram))
             throw new IllegalArgumentException("argument not in text");
 
-        // Copy char frequencies of given k-gram into int[] data
-        //int[] data = new int[ASCII];
-        //for (int i = 0; i < nextchar.get(kgram).length; i++) {
-        //    data[i] = nextchar.get(kgram)[i];
-        //}
-        // Get random index with probabilities proportional to char frequencies
-        //int randomIndex = StdRandom.discrete(data);
-        // Return index as ASCII char
-        //return (char) randomIndex;
         int[] freq = nextchar.get(kgram);
+        
         return (char) StdRandom.discrete(freq);
     }
 

@@ -15,7 +15,7 @@ the universe, Thoughts meander like a restless wind Inside a letter box they Stu
 they make their way Across the universe Jai guru deva om Nothing's gonna change my world
 ```
 
-running `TextGenerator 5 200 < beatles.txt` yields a model of order *5* and generates 200 characters in the linguistic style of the Beatles. It might look like this:
+running `TextGenerator 5 200 < beatles.txt` yields a model of order *k*=5 and generates *T*=200 characters in the linguistic style of the Beatles. It might look like this:
 
 ```
 Words are flowing of Marigold way. I've been us instead. Please don't you want you don't do you, yeh, All my love. Oh dearest one, if you I adore. When your birthday to

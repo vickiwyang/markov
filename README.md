@@ -30,7 +30,3 @@ see her walk about you walk around, yeh, It took me on
 out. Daylight now ove
 ```
 In general, larger *k* tends to reproduce more of the input text.
-
---
-
-*This assignment was completed as part of COS 126 at Princeton University in Spring 2020.*
